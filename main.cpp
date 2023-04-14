@@ -13,7 +13,7 @@ public:
 
 
 	void HashInsert(int index, int key);
-
+	//
 	bool HashInsertLinearProbe(int key);
 	void HashRemoveLinearProbe(int key);
 
